@@ -27,6 +27,19 @@ function App() {
                         <div className="font-space font-bold text-2xl border-b-2 border-black inline-block mb-8">LEADERSHIP</div>
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                             <ExperienceCard
+                                title="Part Time Job Assist Cell"
+                                role="Co-Convenor"
+                                period="2025-26"
+                                icon={Users}
+                                className="h-full"
+                            >
+                                <p>
+                                    Coordinating cell activities and managing part-time initiatives.
+                                    Ensuring smooth operations and student engagement.
+                                </p>
+                            </ExperienceCard>
+                            
+                            <ExperienceCard
                                 title="Ladies Hostel Union"
                                 role="Member"
                                 period="2024-25"
@@ -49,19 +62,6 @@ function App() {
                                 <p>
                                     Promoting women entrepreneurship and innovation. Organizing workshops
                                     and mentorship sessions to bridge the gender gap in tech.
-                                </p>
-                            </ExperienceCard>
-
-                            <ExperienceCard
-                                title="Part Time Cell"
-                                role="Co-Convenor"
-                                period="2024-25"
-                                icon={Users}
-                                className="h-full"
-                            >
-                                <p>
-                                    Coordinating cell activities and managing part-time initiatives.
-                                    Ensuring smooth operations and student engagement.
                                 </p>
                             </ExperienceCard>
                         </div>

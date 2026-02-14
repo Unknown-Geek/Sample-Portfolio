@@ -29,11 +29,11 @@ const Hero = () => {
             <div className="w-full">
                 <div className="border-2 border-black bg-white p-6 shadow-hard h-full relative">
                     {/* Decorative element */}
-                    <div className="hidden md:block absolute top-0 right-0 w-8 h-8 bg-[var(--color-accent)] border-l-2 border-b-2 border-black"></div>
+                    {/* <div className="absolute top-0 right-0 w-8 h-8 bg-[var(--color-secondary)] border-l-2 border-b-2 border-black"></div> */}
 
                     <div className="border-b-2 border-black pb-4 mb-4 flex justify-between items-center">
                         <h2 className="font-space font-bold text-xl uppercase flex items-center gap-2 ">
-                            <div className="w-3 h-3 bg-[var(--color-primary)] rounded-full border border-black"></div>
+                            {/* <div className="w-3 h-3 bg-[var(--color-primary)] rounded-full border border-black"></div> */}
                             I'm SANDHRA TREASA MARIA
                         </h2>
                     </div>
