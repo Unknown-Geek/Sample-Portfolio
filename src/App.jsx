@@ -42,7 +42,7 @@ function App() {
                             <ExperienceCard
                                 title="Ladies Hostel Union"
                                 role="Member"
-                                period="2024-25"
+                                period="2025-26"
                                 icon={Shield}
                                 className="h-full"
                             >
@@ -173,7 +173,7 @@ function App() {
                                 <ExperienceCard
                                     title="Mashi"
                                     role="Volunteer"
-                                    period="2024"
+                                    period="2025"
                                     icon={Users}
                                     className="h-full"
                                 >
