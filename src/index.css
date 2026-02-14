@@ -1,21 +1,23 @@
 @import "tailwindcss";
 
 @theme {
-    --color-paper: #FDFDFD;
-    --color-muted-slate: #F1F5F9;
+    --color-paper: #F0EEE9;
+    /* Cloud Dancer */
+    --color-muted-slate: #E6E4DF;
+    /* Slightly darker Cloud Dancer for contrast */
     --font-space: 'Space Grotesk', sans-serif;
     --font-inter: 'Plus Jakarta Sans', sans-serif;
     --shadow-hard: 6px 6px 0px 0px #000000;
 
-    /* New Neo-Brutalist Colors */
-    --color-primary: #FF6B6B;
-    /* Coral Red */
-    --color-secondary: #4ECDC4;
-    /* Teal */
-    --color-accent: #FFE66D;
-    /* Yellow */
-    --color-background: #F7F7F7;
-    /* Light Grey */
+    /* Stand Out Colors */
+    --color-primary: #FF6E40;
+    /* Exuberant Orange (Pantone 17-1363) */
+    --color-secondary: #7A78D6;
+    /* Blue Violet (Pantone 2725 C) */
+    --color-accent: #EDFF00;
+    /* Sun Glare (Pantone 13-0663) */
+    --color-background: #F0EEE9;
+    /* Cloud Dancer */
 }
 
 :root {
