@@ -19,7 +19,7 @@ function App() {
                         <h2 className="text-4xl md:text-6xl font-black font-space uppercase leading-none">
                             Experience <br /> Log
                         </h2>
-                        <div className="w-4 h-4 bg-black mb-2 animate-pulse"></div>
+                        <div className="w-4 h-4 bg-black mb-2 "></div>
                     </div>
 
                     {/* Leadership Section */}
