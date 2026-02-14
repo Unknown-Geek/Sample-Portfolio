@@ -15,7 +15,7 @@ const Hero = () => {
                         Portfolio 2026
                     </div>
                     <a
-                        href="https://linkedin.com"
+                        href="https://www.linkedin.com/in/sandhra-treasa-maria-554a75347/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-2 border-2 border-black bg-[var(--color-secondary)] px-4 py-2 font-bold font-space uppercase hover:bg-black hover:text-[var(--color-secondary)] transition-all duration-200 shadow-hard hover:shadow-none hover:translate-x-[6px] hover:translate-y-[6px]"
