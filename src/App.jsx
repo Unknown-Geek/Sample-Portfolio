@@ -178,7 +178,7 @@ function App() {
                         Get in Touch
                     </button>
                     <div className="mt-12 font-inter text-sm text-gray-500">
-                        © 2026 Portfolio. Neo-Brutalist Design System.
+                        © 2026 Portfolio. Sandra.
                     </div>
                 </footer>
 
