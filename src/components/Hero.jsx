@@ -1,6 +1,6 @@
 import React from 'react';
 import { Linkedin } from 'lucide-react';
-import profileImg from '../assets/profile.png';
+import profileImg from '../assets/profile.jpeg';
 
 const Hero = () => {
     return (
@@ -18,7 +18,7 @@ const Hero = () => {
                         href="https://linkedin.com"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center gap-2 border-2 border-black bg-[var(--color-secondary)] px-4 py-2 font-bold font-space uppercase hover:bg-black hover:text-[var(--color-secondary)] transition-colors shadow-hard"
+                        className="inline-flex items-center gap-2 border-2 border-black bg-[var(--color-secondary)] px-4 py-2 font-bold font-space uppercase hover:bg-black hover:text-[var(--color-secondary)] transition-all duration-200 shadow-hard hover:shadow-none hover:translate-x-[6px] hover:translate-y-[6px]"
                     >
                         <Linkedin size={20} />
                         LinkedIn
@@ -34,7 +34,7 @@ const Hero = () => {
                     <div className="border-b-2 border-black pb-4 mb-4 flex justify-between items-center">
                         <h2 className="font-space font-bold text-xl uppercase flex items-center gap-2">
                             <div className="w-3 h-3 bg-[var(--color-primary)] rounded-full border border-black"></div>
-                            CANDIDATE PROFILE
+                            I'm Sandra
                         </h2>
                     </div>
 
