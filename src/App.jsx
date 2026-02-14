@@ -187,9 +187,14 @@ function App() {
                 {/* Footer/Contact */}
                 <footer id="contact" className="border-t-2 border-black bg-muted-slate py-12 px-6 text-center">
                     <h2 className="font-space font-bold text-3xl mb-6">READY TO COLLABORATE?</h2>
-                    <button className="bg-white text-black px-8 py-3 font-space font-bold uppercase text-lg border-2 border-black shadow-hard hover:shadow-none hover:translate-x-[6px] hover:translate-y-[6px] active:scale-95 transition-all duration-200">
+                    <a
+                        href="https://wa.me/918075323865"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-white text-black px-8 py-3 font-space font-bold uppercase text-lg border-2 border-black shadow-hard hover:shadow-none hover:translate-x-[6px] hover:translate-y-[6px] active:scale-95 transition-all duration-200"
+                    >
                         Get in Touch
-                    </button>
+                    </a>
                     <div className="mt-12 font-inter text-sm text-gray-500">
                         © Portfolio. Sandhra Treasa Maria .
                     </div>
