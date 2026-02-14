@@ -34,7 +34,7 @@ const Hero = () => {
                     <div className="border-b-2 border-black pb-4 mb-4 flex justify-between items-center">
                         <h2 className="font-space font-bold text-xl uppercase flex items-center gap-2">
                             <div className="w-3 h-3 bg-[var(--color-primary)] rounded-full border border-black"></div>
-                            I'm Sandra
+                            I'm SANDHRA TREASA MARIA
                         </h2>
                     </div>
 

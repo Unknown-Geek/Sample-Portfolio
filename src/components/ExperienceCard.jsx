@@ -19,7 +19,7 @@ const ExperienceCard = ({ title, role, period, icon: Icon, children, className =
                 </span>
             </div>
 
-            <h3 className="font-space font-bold text-2xl uppercase leading-tight mb-2 group-hover:underline decoration-2 underline-offset-4">
+            <h3 className="font-space font-bold text-2xl uppercase leading-tight mb-2">
                 {title}
             </h3>
 

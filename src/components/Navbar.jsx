@@ -3,11 +3,11 @@ import { User, Briefcase, Mail } from 'lucide-react';
 
 const Navbar = () => {
     return (
-        <nav className="w-full border-b-2 border-black bg-white py-4 px-6 md:px-12 flex justify-between items-center sticky top-0 z-50">
-            <div className="flex items-center gap-2">
+        <nav className="w-full border-b-2 border-black bg-white py-4 px-6 md:px-12 flex justify-center items-center sticky top-0 z-50">
+            {/* <div className="flex items-center gap-2">
                 <div className="w-3 h-3 bg-black rounded-full animate-pulse"></div>
                 <span className="font-space font-bold uppercase text-sm tracking-wider">Status: Available</span>
-            </div>
+            </div> */}
 
             <div className="flex items-center gap-6 md:gap-8">
                 <a href="#profile" className="font-inter font-medium hover:underline decoration-2 underline-offset-4 flex items-center gap-2">

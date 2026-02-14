@@ -51,6 +51,19 @@ function App() {
                                     and mentorship sessions to bridge the gender gap in tech.
                                 </p>
                             </ExperienceCard>
+
+                            <ExperienceCard
+                                title="Part Time Cell"
+                                role="Co-Convenor"
+                                period="2024-25"
+                                icon={Users}
+                                className="h-full"
+                            >
+                                <p>
+                                    Coordinating cell activities and managing part-time initiatives.
+                                    Ensuring smooth operations and student engagement.
+                                </p>
+                            </ExperienceCard>
                         </div>
                     </div>
 
@@ -178,7 +191,7 @@ function App() {
                         Get in Touch
                     </button>
                     <div className="mt-12 font-inter text-sm text-gray-500">
-                        © 2026 Portfolio. Sandra .
+                        © Portfolio. Sandhra Treasa Maria .
                     </div>
                 </footer>
 
